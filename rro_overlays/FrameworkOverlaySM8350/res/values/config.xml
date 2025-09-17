@@ -176,4 +176,7 @@
 
     <!-- PowerOffAlarmService -->
     <bool name="config_powerOffAlarmEnabled">true</bool>
+
+    <!-- Preferred max refresh rate at AOD & Ambient Display, if supported by the display. -->
+    <integer name="config_aodMaxRefreshRate">90</integer>
 </resources>
